@@ -1,2 +1,5 @@
 Hello World!
+<<<<<<< HEAD
 Hello
+hot_fix
+>>>>>>> hot-fix
